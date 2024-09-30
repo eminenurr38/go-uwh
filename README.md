@@ -2,4 +2,4 @@
 GOLANG
 
 
-Git aracılığıyla Github'a  dosya gönderme pıll, push, commit, merge işlemleri yapılmıştır.
+Bu projede QuadA dosyasını çalıştırmak için go run QuadA.go komutuyla çalıştırabilirsiniz.
